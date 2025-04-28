@@ -7,3 +7,4 @@ Integrate with
 - Cloudflare Pages
 - Vercel
 - Netlify
+- Supabase
