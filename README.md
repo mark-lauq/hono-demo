@@ -6,3 +6,4 @@ Integrate with
 - Cloudflare Workers
 - Cloudflare Pages
 - Vercel
+- Netlify
