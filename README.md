@@ -9,3 +9,4 @@ Integrate with
 - Netlify
 - Supabase
 - Service Worker
+- Node.js
