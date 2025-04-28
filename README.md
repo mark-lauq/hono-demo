@@ -8,3 +8,4 @@ Integrate with
 - Vercel
 - Netlify
 - Supabase
+- Service Worker
